@@ -1,3 +1,3 @@
-function isDouble(string number) {
+function isDouble(string numberString) {
   return true;
 }
