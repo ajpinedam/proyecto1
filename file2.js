@@ -3,6 +3,6 @@ function isDouble(string numberString) {
 }
 
 
-function isInt(string number) {
+function isInt(string numberString) {
   return true;
 }
