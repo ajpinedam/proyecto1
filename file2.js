@@ -1,5 +1,5 @@
 function isDouble(string numberString) {
-  return true;
+  return numberString != nul ? true : false;
 }
 
 
