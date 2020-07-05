@@ -81,6 +81,7 @@ git checkout -b fix/function
 > .gitignore
 
 > Alias
+   git config --global alias.last2 'log -2'
 
 Agregados:
 
